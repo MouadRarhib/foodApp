@@ -3,7 +3,7 @@
 # Description
 Welcome to FoodApp, your ultimate destination for culinary exploration and convenience. Crafted with precision using the Flutter framework, FoodApp redefines your food shopping experience by offering a wide array of delectable dishes right at your fingertips. From the enticing splash screen to the effortless ordering process, FoodApp promises to make your dining journey a delightful one.
 ## Screenshot 📷
-<img src="dig.PNG" width=1000px/>  
+<img src="pics.png" width=1000px/>  
 
 # Key Features:
 
