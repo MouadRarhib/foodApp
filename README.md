@@ -5,18 +5,16 @@ Welcome to FoodApp, your ultimate destination for culinary exploration and conve
 ## Screenshot 📷
 <img src="pics.png" width=1000px/>  
 
-# Key Features:
+# Key Features
 
-# Intuitive User Interface:
-ChairEase boasts a user-friendly interface that ensures smooth navigation. With carefully designed layouts and intuitive controls, users can effortlessly explore the wide range of chair options available.
-# Extensive Chair Collection:
-Discover a diverse collection of chairs, each with its own unique design, style, and comfort level. From modern ergonomic chairs to classic vintage designs, ChairEase has something for every taste.
-# Advanced Color Selection:
-ChairEase's color selection tool allows you to pick from a vast palette, ensuring your chair perfectly matches your room's aesthetics.
-# Flexible Quantity Selection:
-Whether you need a single chair or a set for your dining table, easily adjust the quantity in your cart to meet your requirements.
-# Effortless Cart Management:
-The integrated cart system lets you review your selections, make modifications, and proceed to checkout with ease. Changes to quantities, colors, or designs are a breeze.
+# Captivating Splash Screen:
+FoodApp greets you with a mesmerizing splash screen, a visual treat that sets the stage for your gastronomic adventure. Watch as sumptuous dishes come to life, capturing the essence of FoodApp's commitment to quality and taste.
+# Diverse Food Selection:
+Dive into a world of flavors with FoodApp's extensive food selection. Explore a variety of cuisines, from comfort food to exotic delicacies, ensuring there's something to satisfy every palate.
+# User-Friendly Navigation:
+Discovering your favorite dishes has never been easier. FoodApp's intuitive navigation allows you to seamlessly explore categories, making it effortless to find and select your desired items
+# Customizable Order Quantities:
+Tailor your order to suit your cravings. With FoodApp, you can choose the quantity of each food item, ensuring you enjoy just the right portion for your appetite.
 # Responsive Design:
 Whether you're browsing on a smartphone, tablet, or desktop, ChairEase's responsive design ensures a consistent and enjoyable experience across all devices.
 
